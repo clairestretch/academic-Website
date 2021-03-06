@@ -34,8 +34,8 @@ interests:
 - Machine Vision
 
 
-education:
-	courses:
+education:s
+  courses:
 	- course: BEng (Hons) Software Engineering
 	  institution: University of Greenwich
       year: 2021
