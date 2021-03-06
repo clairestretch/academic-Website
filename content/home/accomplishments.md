@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Accomplishments'
 subtitle:
 
 # Date format
@@ -40,6 +40,5 @@ item:
   organization_url: https://www.greenwichsu.co.uk/
   title: Hack the Planet challenge
   url: https://www.greenwichsu.co.uk/societies/scs/
-
 
 ---
