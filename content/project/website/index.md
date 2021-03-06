@@ -3,8 +3,8 @@
 
 title: "Newton-in-the-Isle Village Website"
 subtitle: ""
-summary: #""
-authors: [claire-stretch, dave-gibbs]
+summary: ""
+authors: [claire-stretch, Dave Gibbs]
 tags: [Newton-in-the-Isle, Website, Village]
 categories: []
 date: "2020-09-28"
