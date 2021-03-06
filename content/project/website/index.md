@@ -40,6 +40,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Newton in the Isle village website
+Newton in the Isle village website, \
 
 **Role**: Website Developement and Advisor
