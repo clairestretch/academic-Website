@@ -32,8 +32,6 @@ item:
   title: Digital Race Certificate of attendance
   url: "https://fpt.com.vn/en/newsroom/detail/digital-race-final-round-autonomous-car-result-with-the-incubation-of-fpt"
 
-
-
 - certificate_url: media/Hackathon.jfif
 #  date_end: ""
   date_start: "2020-03-01
@@ -44,13 +42,4 @@ item:
   url: https://www.greenwichsu.co.uk/societies/scs/
 
 
-
-#- certificate_url: https://www.datacamp.com
-#  date_end: "2017-12-21"
-#  date_start: "2017-07-01"
-#  description: ""
-#  organization: DataCamp
-#  organization_url: https://www.datacamp.com
-#  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-#  url: ""
 ---
