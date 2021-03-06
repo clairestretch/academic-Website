@@ -21,7 +21,8 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience: Junior Research Developer
+experience: 
+  - title: Junior Research Developer
     company: University of Greenwich
     company_url: 'http://gre.ac.uk'
     location: Greenwich
