@@ -39,12 +39,12 @@ contact_links:
     name: Linkedin
     link: 'https://www.linkedin.com/in/claire-stretch'
 
-  - icon: globe-americas
+  - icon: fa-globe-europe
     icon_pack: fas
     name: Geograph
     link: 'https://www.geograph.org.uk/profile/37780'
     
-  - icon: globe-americas
+  - icon: fa-globe-europe
     icon_pack: fas
     name: Google
     link: 'https://goo.gl/maps/FTxyh4MiGDp9CkMG6 '
