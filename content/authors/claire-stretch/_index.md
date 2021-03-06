@@ -34,6 +34,7 @@ interests:
 - Machine Vision
 - Driverless Cars
 - Smart Traffic Lights
+- Volunteering
 
 
 education:
