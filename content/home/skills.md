@@ -16,18 +16,43 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 
+  icon: php
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
+  name: PHP
+
+- description: 
+  icon: python
+  icon_pack: fab
+  name: Python  
+ 
+- description: 
+  icon: java
+  icon_pack: fab
+  name: Java   
+ 
+ - description: 
+  icon: react
+  icon_pack: fab
+  name: React  
+
+ - description: 
+  icon: github
+  icon_pack: fab
+  name: GitHub    
+ 
+- description: 
+  icon: camera
+  icon_pack: fab
   name: Photography
+
+- description: 
+  icon: camera
+  icon_pack: fab
+  name: Photography  
+  
+  
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
