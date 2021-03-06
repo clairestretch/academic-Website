@@ -18,7 +18,7 @@ organizations:
   url: "https://www.gre.ac.uk/"
 
 
-avatar_filename: me.jpg
+avatar_filename: media/me.jpg
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -43,17 +43,17 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 
 #- icon: linkedin
-  #icon_pack: ai
-  #link: www.linkedin.com/in/claire-stretch
+  icon_pack: ai
+  link: www.linkedin.com/in/claire-stretch
 
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/clairestretch
+- icon: github
+  icon_pack: fab
+  link: https://github.com/clairestretch
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: documents/ClaireStretchCV.pdf
 
 
 
