@@ -53,7 +53,7 @@ contact_links:
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
    
-   -icon: linkedin
+  - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/claire-stretch
 
