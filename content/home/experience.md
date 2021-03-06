@@ -42,7 +42,7 @@ experience:
     date_start: '2018-10-16'
     date_end: ''
     description: Provide technical support and assistance to students and staff.
-	
+
   - title:  Argos Customer Fullfilment Assistant
     company: Argos
     company_url: 'http://www.argos.co.uk'
@@ -50,7 +50,7 @@ experience:
     date_start: '2019-08-01'
     date_end: ''
     description: Deliveries.
-		
+
   - title:  Argos Team Leader
     company: Argos
     company_url: 'http://www.argos.co.uk'
@@ -58,7 +58,7 @@ experience:
     date_start: '2018-11-01'
     date_end: '2019-08-01'
     description: Deliveries.	
-	
+
   - title:  Argos Customer Fullfilment Assistant
     company: Argos
     company_url: 'http://www.argos.co.uk'
