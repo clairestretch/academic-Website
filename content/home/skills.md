@@ -16,37 +16,37 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description: ""
   icon: php
   icon_pack: fab
   name: PHP
 
-- description: 
+- description: ""
   icon: python
   icon_pack: fab
   name: Python  
  
-- description: 
+- description: ""
   icon: java
   icon_pack: fab
   name: Java   
  
- - description: 
+ - description: ""
   icon: react
   icon_pack: fab
   name: React  
 
- - description: 
+ - description: ""
   icon: github
   icon_pack: fab
   name: GitHub    
  
-- description: 
+- description: ""
   icon: camera
   icon_pack: fab
   name: Photography
 
-- description: 
+- description: ""
   icon: camera
   icon_pack: fab
   name: Photography  
