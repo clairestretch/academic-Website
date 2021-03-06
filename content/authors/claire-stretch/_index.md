@@ -64,4 +64,3 @@ social:
 
 
 ---
-I am an Undergraduate at the University of Greenwich.
