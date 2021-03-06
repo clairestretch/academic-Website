@@ -4,8 +4,8 @@
 title: "Argos Weekly Document Generator"
 subtitle: ""
 summary: ""
-authors: [claire-stretch, Dave Gibbs]
-tags: [software]
+authors: [claire-stretch]
+tags: [Software]
 categories: []
 date: "2020-09-28"
 
