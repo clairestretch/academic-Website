@@ -40,4 +40,13 @@ item:
   organization_url: "https://www.greenwichsu.co.uk/"
   title: "Hack the Planet challenge"
   url: "https://www.greenwichsu.co.uk/societies/scs/"
+  
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-10-21"
+  description: "CompSoc Hackathon  media/DisruptNormandy.jfif"
+  organization: "Normandie University"
+  organization_url: "https://www.normandie-univ.fr/entrepreneuriat-presentation/missions-et-objectifs-disrupt/"
+  title: "The Hackathon by Disrupt Normandy"
+  url: "https://blogs.gre.ac.uk/scholarsinspotlight/2019/11/08/greenwich-students-participate-in-a-hackathon-by-disrupt-normandy-france/"
 ---
