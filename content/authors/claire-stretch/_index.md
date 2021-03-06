@@ -38,12 +38,15 @@ interests:
 
 # Social/Academic Networking
 
-#social:
+social:
   - display:
     header: false
-    link: 'https://www.linkedin.com/in/claire-stretch'
-    icon_pack: fab
-    icon: linkedin
+    
+  - icon: linkedin
+	icon_pack: fab
+	link: 'https://www.linkedin.com/in/claire-stretch'
+    
+    
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
