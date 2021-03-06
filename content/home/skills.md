@@ -40,15 +40,10 @@ feature:
   icon: github
   icon_pack: fab
   name: GitHub    
- 
-- description: ""
-  icon: camera
-  icon_pack: fab
-  name: Photography
 
 - description: ""
   icon: camera
-  icon_pack: fab
+  icon_pack: fas
   name: Photography  
   
   
