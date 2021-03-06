@@ -31,12 +31,12 @@ feature:
   icon_pack: fab
   name: Java   
  
- - description: ""
+- description: ""
   icon: react
   icon_pack: fab
   name: React  
 
- - description: ""
+- description: ""
   icon: github
   icon_pack: fab
   name: GitHub    
