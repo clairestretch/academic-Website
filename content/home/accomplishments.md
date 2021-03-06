@@ -44,7 +44,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-10-21"
-  description: "CompSoc Hackathon  {{< figure src="media/DisruptNormandy.jfif" id="wowchemy" >}}"
+  description: "CompSoc Hackathon  {{< figure src='media/DisruptNormandy.jfif' id="wowchemy" >}}"
   organization: "Normandie University"
   organization_url: "https://www.normandie-univ.fr/entrepreneuriat-presentation/missions-et-objectifs-disrupt/"
   title: "The Hackathon by Disrupt Normandy"
