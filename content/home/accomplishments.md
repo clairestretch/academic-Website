@@ -24,16 +24,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: media/digitalrace.jfif
-#  date_end: ""
+  date_end: ""
   date_start: "2019-05-01"
-  description: " and https://www.gre.ac.uk/articles/public-relations/a4119-self-driving-cars"
+  description:  and https://www.gre.ac.uk/articles/public-relations/a4119-self-driving-cars
   organization: FTP Corporation
   organization_url: https://fpt.com.vn/en
   title: Digital Race Certificate of attendance
   url: "https://fpt.com.vn/en/newsroom/detail/digital-race-final-round-autonomous-car-result-with-the-incubation-of-fpt"
 
 - certificate_url: media/Hackathon.jfif
-#  date_end: ""
+  date_end: ""
   date_start: "2020-03-01
   description: CompSoc Hackathon
   organization: Student Union University of Greenwich
