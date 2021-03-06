@@ -36,14 +36,17 @@ contact_links:
   
   - icon: linkedin
     icon_pack: fab
+    name: Linkedin
     link: 'https://www.linkedin.com/in/claire-stretch'
 
   - icon: link
     icon_pack: fab
+    name: Geograph
     link: 'https://www.geograph.org.uk/profile/37780'
     
-   - icon: link
+  - icon: link
     icon_pack: fab
+    name: Google
     link: 'https://goo.gl/maps/FTxyh4MiGDp9CkMG6 '
 
 
