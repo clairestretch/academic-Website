@@ -46,7 +46,7 @@ social:
   icon_pack: ai
   link: www.linkedin.com/in/claire-stretch
 
-- icon: github
+#- icon: github
 # icon_pack: fab
 # link: https://github.com/clairestretch
 # Link to a PDF of your resume/CV from the About widget.
