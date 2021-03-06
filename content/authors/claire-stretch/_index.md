@@ -32,6 +32,8 @@ interests:
 - IoT
 - Photography
 - Machine Vision
+- Driverless Cars
+- Smart Traffic Lights
 
 
 education:
@@ -47,9 +49,9 @@ social:
     icon_pack: fab
     link: "https://www.linkedin.com/in/claire-stretch"
 
-  - icon: cv
-    icon_pack: ai
-    link: "documents/ClaireStretchCV.pdf"
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: "documents/ClaireStretchCV.pdf"
 
   - icon: github
     icon_pack: fab
@@ -58,3 +60,14 @@ social:
 
 ---
 I am an Undergraduate at the University of Greenwich.
+
+IT Support Desk
+
+Junior Research Developer
+
+Parish Council Websites
+
+
+Vietnam
+
+France
