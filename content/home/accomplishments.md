@@ -31,14 +31,4 @@ item:
   organization_url: https://fpt.com.vn/en
   title: Digital Race Certificate of attendance
   url: "https://fpt.com.vn/en/newsroom/detail/digital-race-final-round-autonomous-car-result-with-the-incubation-of-fpt"
-
-- certificate_url: media/Hackathon.jfif
-  date_end: ""
-  date_start: "2020-03-01
-  description: CompSoc Hackathon
-  organization: Student Union University of Greenwich
-  organization_url: https://www.greenwichsu.co.uk/
-  title: Hack the Planet challenge
-  url: https://www.greenwichsu.co.uk/societies/scs/
-
 ---
