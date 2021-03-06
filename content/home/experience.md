@@ -57,7 +57,7 @@ experience:
     location: Charlton
     date_start: '2018-11-01'
     date_end: '2019-08-01'
-    description: Deliveries.	
+    description: Deliveries.
 
   - title:  Argos Customer Fullfilment Assistant
     company: Argos
@@ -65,10 +65,5 @@ experience:
     location: Charlton
     date_start: '2017-09-23'
     date_end: '2018-11-01'
-    description: Deliveries.	
-	
-	
-	
-	
-	
+    description: Deliveries.
 ---
