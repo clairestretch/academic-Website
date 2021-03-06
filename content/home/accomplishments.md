@@ -36,7 +36,7 @@ item:
   date_end: ""
   date_start: "2020-03-01"
   description: "CompSoc Hackathon"
-  organization: "Student Union University of Greenwich"
+  organization: "Student Union, University of Greenwich"
   organization_url: "https://www.greenwichsu.co.uk/"
   title: "Hack the Planet challenge"
   url: "https://www.greenwichsu.co.uk/societies/scs/"
@@ -49,4 +49,14 @@ item:
   organization_url: "https://www.normandie-univ.fr/entrepreneuriat-presentation/missions-et-objectifs-disrupt/"
   title: "The Hackathon by Disrupt Normandy"
   url: "https://blogs.gre.ac.uk/scholarsinspotlight/2019/11/08/greenwich-students-participate-in-a-hackathon-by-disrupt-normandy-france/"
+
+- certificate_url: "media/silverVolunteering.jfif"
+  date_end: ""
+  date_start: "2020-03-15"
+  description: "GSCV Silver Certificate"
+  organization: "Student Union, University of Greenwich"
+  organization_url: "https://www.greenwichsu.co.uk/"
+  title: "GSCV Silver Certificate for Volunteering"
+  url: "https://www.greenwichsu.co.uk/societies/scs/"
+
 ---
