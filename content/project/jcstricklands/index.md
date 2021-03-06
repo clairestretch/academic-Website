@@ -10,7 +10,7 @@ categories: []
 date: "2020-09-28"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://jcstrickland.co.uk/
+external_link: "http://jcstrickland.co.uk/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
