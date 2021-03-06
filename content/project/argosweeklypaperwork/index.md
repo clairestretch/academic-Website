@@ -40,6 +40,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Tydd St Giles Parish Council, \
+Argos paperwork gen
 
-**Role**: Website Developement and Advisor
+**Role**: Developer
