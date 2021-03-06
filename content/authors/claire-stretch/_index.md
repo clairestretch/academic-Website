@@ -42,6 +42,11 @@ education:
       institution: University of Greenwich
       year: 2021
 
+    - course: BEng Certificate of Higher Education Open
+      institution: The Open University
+      year: 2013
+
+
 # Social/Academic Networking
 
 social:
