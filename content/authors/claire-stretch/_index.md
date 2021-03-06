@@ -40,6 +40,21 @@ education:
       institution: University of Greenwich
       year: 2021
 
+# Social/Academic Networking
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/claire-stretch"
+
+  - icon: cv
+    icon_pack: ai
+    link: "documents/ClaireStretchCV.pdf"
+
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/clairestretch"
+
 
 ---
 I am an Undergraduate at the University of Greenwich.
