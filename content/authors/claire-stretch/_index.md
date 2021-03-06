@@ -42,9 +42,9 @@ interests:
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 
-#- icon: linkedin
-#  icon_pack: ai
-#  link: www.linkedin.com/in/claire-stretch
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/claire-stretch
 
 #- icon: github
 # icon_pack: fab
